@@ -1,0 +1,15 @@
+[global]
+showWarningOnDirectExecution = false
+
+[server]
+port = 8501
+address = "localhost"
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+level = "error"
+
+[client]
+showErrorDetails = false

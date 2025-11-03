@@ -1,0 +1,21 @@
+path: d:\Zindi\Face Detection\yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 15
+names:
+  0: Student-faces
+  1: Al Vincent C Acain
+  2: Alma T Ruiz
+  3: Anfernee C Seprado
+  4: Angelika A Guadez
+  5: Antoniette M Refulle
+  6: Carla E Dumas
+  7: James C Baron
+  8: Jane M Ludivese
+  9: Jay V Retaga
+  10: Jee Hannah C Cabasag
+  11: Jonalyn M Calimbo
+  12: Joshua V Almodiel
+  13: Mark Anthony B Nazareno
+  14: Queenie Mae A Carnicer
